@@ -1,0 +1,15 @@
+G:\PROGRAMMING\exceptions\obj\Debug\net6.0\exceptions.csproj.AssemblyReference.cache
+G:\PROGRAMMING\exceptions\obj\Debug\net6.0\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+G:\PROGRAMMING\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfoInputs.cache
+G:\PROGRAMMING\exceptions\obj\Debug\net6.0\exceptions.AssemblyInfo.cs
+G:\PROGRAMMING\exceptions\obj\Debug\net6.0\exceptions.csproj.CoreCompileInputs.cache
+G:\PROGRAMMING\exceptions\bin\Debug\net6.0\exceptions.exe
+G:\PROGRAMMING\exceptions\bin\Debug\net6.0\exceptions.deps.json
+G:\PROGRAMMING\exceptions\bin\Debug\net6.0\exceptions.runtimeconfig.json
+G:\PROGRAMMING\exceptions\bin\Debug\net6.0\exceptions.dll
+G:\PROGRAMMING\exceptions\bin\Debug\net6.0\exceptions.pdb
+G:\PROGRAMMING\exceptions\obj\Debug\net6.0\exceptions.dll
+G:\PROGRAMMING\exceptions\obj\Debug\net6.0\refint\exceptions.dll
+G:\PROGRAMMING\exceptions\obj\Debug\net6.0\exceptions.pdb
+G:\PROGRAMMING\exceptions\obj\Debug\net6.0\exceptions.genruntimeconfig.cache
+G:\PROGRAMMING\exceptions\obj\Debug\net6.0\ref\exceptions.dll
